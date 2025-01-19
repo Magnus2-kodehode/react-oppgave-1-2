@@ -1,4 +1,13 @@
-
+import spaghettiBolognese from './assets/image/spaghetti-bolognese.png';
+import kremetKyllingsuppe from './assets/image/kremet-kyllingsuppe.png';
+import margaritaPizza from './assets/image/margarita-pizza.png';
+import sushiMix from './assets/image/sushi-mix.png';
+import cæsarsalat from './assets/image/cæsarsalat.png';
+import brownieMedIs from './assets/image/brownie-med-is.png';
+import tacoTallerken from './assets/image/taco-tallerken.png';
+import pannekakerMedSyltetøy from './assets/image/pannekaker-med-syltetøy.png';
+import rekerMedSitron from './assets/image/reker-med-sitron.png';
+import entrecôteMedGrønnsaker from './assets/image/entrecôte-med-grønnsaker.png';
 
 export const meny = [
     {
@@ -7,7 +16,7 @@ export const meny = [
       pris: "159 kr",
       ingredienser: "Spaghetti, kjøttsaus, parmesan",
       kategori: "Hovedrett",
-      bilde: "/assets/image/spaghetti-bolognese.png"
+      bilde: spaghettiBolognese
     },
     {
       id: 2,
@@ -15,7 +24,7 @@ export const meny = [
       pris: "129 kr",
       ingredienser: "Kylling, fløte, gulrøtter, selleri",
       kategori: "Forrett",
-      bilde: "/assets/image/kremet-kyllingsuppe.png"
+      bilde: kremetKyllingsuppe
     },
     {
       id: 3,
@@ -23,7 +32,7 @@ export const meny = [
       pris: "169 kr",
       ingredienser: "Tomatsaus, mozzarella, basilikum",
       kategori: "Hovedrett",
-      bilde: "/assets/image/margarita-pizza.png"
+      bilde: margaritaPizza
     },
     {
       id: 4,
@@ -31,7 +40,7 @@ export const meny = [
       pris: "229 kr",
       ingredienser: "Laks, tunfisk, reker, ris",
       kategori: "Hovedrett",
-      bilde: "/assets/image/sushi-mix.png"
+      bilde: sushiMix
     },
     {
       id: 5,
@@ -39,7 +48,7 @@ export const meny = [
       pris: "139 kr",
       ingredienser: "Romanosalat, kylling, parmesan, dressing",
       kategori: "Forrett",
-      bilde: "/assets/image/cæsarsalat.png"
+      bilde: cæsarsalat
     },
     {
       id: 6,
@@ -47,7 +56,7 @@ export const meny = [
       pris: "89 kr",
       ingredienser: "Brownie, vaniljeis, sjokoladesaus",
       kategori: "Dessert",
-      bilde: "/assets/image/brownie-med-is.png"
+      bilde: brownieMedIs
     },
     {
       id: 7,
@@ -55,7 +64,7 @@ export const meny = [
       pris: "199 kr",
       ingredienser: "Kjøttdeig, mais, ost, guacamole",
       kategori: "Hovedrett",
-      bilde: "/assets/image/taco-tallerken.png"
+      bilde: tacoTallerken
     },
     {
       id: 8,
@@ -63,7 +72,7 @@ export const meny = [
       pris: "99 kr",
       ingredienser: "Pannekaker, jordbærsyltetøy, sukker",
       kategori: "Dessert",
-      bilde: "/assets/image/pannekaker-med-syltetøy.png"
+      bilde: pannekakerMedSyltetøy
     },
     {
       id: 9,
@@ -71,7 +80,7 @@ export const meny = [
       pris: "149 kr",
       ingredienser: "Reker, sitron, dill, brød",
       kategori: "Forrett",
-      bilde: "/assets/image/reker-med-sitron.png"
+      bilde: rekerMedSitron
     },
     {
       id: 10,
@@ -79,6 +88,6 @@ export const meny = [
       pris: "289 kr",
       ingredienser: "Entrecôte, asparges, poteter, peppersaus",
       kategori: "Hovedrett",
-      bilde: "/assets/image/entrecôte-med-grønnsaker.png"
+      bilde: entrecôteMedGrønnsaker
     },
 ];
