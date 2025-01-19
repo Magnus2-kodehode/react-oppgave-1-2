@@ -1,13 +1,13 @@
-import spaghettiBolognese from './assets/image/spaghetti-bolognese.png';
-import kremetKyllingsuppe from './assets/image/kremet-kyllingsuppe.png';
-import margaritaPizza from './assets/image/margarita-pizza.png';
-import sushiMix from './assets/image/sushi-mix.png';
-import cæsarsalat from './assets/image/cæsarsalat.png';
-import brownieMedIs from './assets/image/brownie-med-is.png';
-import tacoTallerken from './assets/image/taco-tallerken.png';
-import pannekakerMedSyltetøy from './assets/image/pannekaker-med-syltetøy.png';
-import rekerMedSitron from './assets/image/reker-med-sitron.png';
-import entrecôteMedGrønnsaker from './assets/image/entrecôte-med-grønnsaker.png';
+import spaghettiBolognese from '../public/assets/image/spaghetti-bolognese.png';
+import kremetKyllingsuppe from '../public/assets/image/kremet-kyllingsuppe.png';
+import margaritaPizza from '../public/assets/image/margarita-pizza.png';
+import sushiMix from '../public/assets/image/sushi-mix.png';
+import cæsarsalat from '../public/assets/image/cæsarsalat.png';
+import brownieMedIs from '../public/assets/image/brownie-med-is.png';
+import tacoTallerken from '../public/assets/image/taco-tallerken.png';
+import pannekakerMedSyltetøy from '../public/assets/image/pannekaker-med-syltetøy.png';
+import rekerMedSitron from '../public/assets/image/reker-med-sitron.png';
+import entrecôteMedGrønnsaker from '../public/assets/image/entrecôte-med-grønnsaker.png';
 
 export const meny = [
     {
